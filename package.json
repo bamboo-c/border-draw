@@ -1,0 +1,22 @@
+{
+  "name": "border-draw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/BorderDraw.es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamboo-c/border-draw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bamboo-c/border-draw/issues"
+  },
+  "homepage": "https://github.com/bamboo-c/border-draw#readme",
+  "devDependencies": {
+    "gulp-babel": "^6.1.2"
+  }
+}
